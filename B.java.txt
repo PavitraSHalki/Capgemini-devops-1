@@ -3,5 +3,7 @@ class
 void mul(int x,int y)
 {
 }
-
+void add(int a,int b)
+{
+}
 }
