@@ -1,0 +1,7 @@
+class
+{
+void mul(int x,int y)
+{
+}
+
+}
