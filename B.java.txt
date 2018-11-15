@@ -1,4 +1,6 @@
+//added by pavitra from local repository
 class
+
 {
 void mul(int x,int y)
 {
