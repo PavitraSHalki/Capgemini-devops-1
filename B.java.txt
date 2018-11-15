@@ -1,3 +1,4 @@
+//modified by parashu
 class
 {
 void mul(int x,int y)
